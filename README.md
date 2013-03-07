@@ -18,7 +18,7 @@ Spire.DataExport for .NET is a .NET component which is designed to perform data 
 
 <strong><p>Free Trial of Spire.DataExport for .NET<strong></p>
 ================
-<p>Spire.DataExport for .NET is a professional data export product for commercial use. Before trial, you need to <a href="http://www.e-iceblue.com/Download/download-dataexport-for-net-now.html">download Spire.DataExport for. NET</a>and there will be in evaluation mode when it works.  To remove this evaluation warning, you will need to purchase it to get a license.
+<p>Spire.DataExport for .NET is a professional data export product for commercial use. Before trial, you need to <a href="http://www.e-iceblue.com/Download/download-dataexport-for-net-now.html">download Spire.DataExport for. NET</a>and there will be in evaluation mode when it works.  To remove this evaluation warning, you will need to purchase it to get a license.</p>
 <strong><p>How to Install?<strong></p>
 <p>Spire.DataExport dll is independent with sample projects. They are all packed in new versions, but for hotfix version, there is only Spire.DataExport dll. For a new user of Spire.DataExport for .NET, it is better to keep the sample projects in it. But if you have used it, you can only extract the Spire.DataExport dll to any location as you like without any running error.</p>
 <strong><p>How to Run Project Demos?<strong></p>
@@ -71,6 +71,14 @@ Spire.DataExport for .NET is a .NET component which is designed to perform data 
 <p>2.Frequently release new version to add new features or fix bugs.</p>
 <p>3.Responsible free technical support for anyone within at most one business day.</p>
 <p>4.Online support of professional technical advisers in communities and forums.</p>
+
+<strong><p>How to Choose Subscription?<strong></p>
+================
+<p>This subscription program is designed to offer the latest development technology and high quality support for both individual customers and team developers with a lowest price.See more in<a href="http://www.e-iceblue.com/Knowledgebase/Licensing/Purchase-Subscription.html">Purchase Subscription</a></p>
+
+<strong><p>How to Apply a License?<strong></p>
+<p>E-iceblue provides a trial version of Spire.DataExport. As long as you are registered, you can download it for free. But it will be in evaluation mode before you purchasing a license.</p>
+<p>Spire.DataExport for .NET license is an xml file which contains licensing available data, product name, product version, the number of licensed developer and licensed site etc. See <a href="http://www.e-iceblue.com/Knowledgebase/Licensing/Licensing.html">License Details</a></p>
 
 
 
