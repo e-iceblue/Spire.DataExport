@@ -20,20 +20,20 @@ Spire.DataExport for .NET is a .NET component which is designed to perform data 
 ================
 Spire.DataExport for .NET is a professional data export product for commercial use. Before trial, you need to <a href="http://www.e-iceblue.com/Download/download-dataexport-for-net-now.html">download Spire.DataExport for. NET</a>and there will be in evaluation mode when it works.  To remove this evaluation warning, you will need to purchase it to get a license.
 <strong><p>How to Install?<strong></p>
-Spire.DataExport dll is independent with sample projects. They are all packed in new versions, but for hotfix version, there is only Spire.DataExport dll. For a new user of Spire.DataExport for .NET, it is better to keep the sample projects in it. But if you have used it, you can only extract the Spire.DataExport dll to any location as you like without any running error.
+<p>Spire.DataExport dll is independent with sample projects. They are all packed in new versions, but for hotfix version, there is only Spire.DataExport dll. For a new user of Spire.DataExport for .NET, it is better to keep the sample projects in it. But if you have used it, you can only extract the Spire.DataExport dll to any location as you like without any running error.
 <strong><p>How to Run Project Demos?<strong></p>
-There is the default project in the sample project pack. Often the first sample project is the default project. So when you run the demo by pressing “F5” or clicking the “Debug”, it actually debugs the first project. The best way is to set the project you want to debug as the StartUp Project. So be sure you are running the right project.
+<p>There is the default project in the sample project pack. Often the first sample project is the default project. So when you run the demo by pressing “F5” or clicking the “Debug”, it actually debugs the first project. The best way is to set the project you want to debug as the StartUp Project. So be sure you are running the right project.</p>
 
 <strong><p>Content in Download<strong></p>
 ================
 <strong><p>Projects<strong></p>
-In the download, there are three huge projects with C#, VB.NET source code. They can all be performed on .NET 2.0, .NET 3.5 and .NET 4.0. Here is the detail description of the three projects:</p>
-    <strong><p>Cell Sample<strong></p>
+<p>In the download, there are three huge projects with C#, VB.NET source code. They can all be performed on .NET 2.0, .NET 3.5 and .NET 4.0. Here is the detail description of the three projects:</p>
+<strong><p>Cell Sample<strong></p>
 <p>Cell Sample shows the example of exporting the datatable from database, listview and command to excel worksheets including Multiple Sheets, Formula, Chart and Misc. “demo.mdb” is a default database in Spire.DataExport. Two types of charts are displayed in the defualt Form. Actually, 15 chart types are available here by setting the Chart.Type property. They are:</p>
-        <p>1.Area</p>
-        <p>2.Area 3d</p>
-        <p>3.Bar</p>
-        <p>4.Bar 3d</p>
+<p>1.Area</p>
+<p>2.Area 3d</p>
+<p>3.Bar</p>
+<p>4.Bar 3d</p>
 <p>5.Column</p>
 <p>6.Column3d</p>
 <p>7.Line</p>
@@ -45,6 +45,33 @@ In the download, there are three huge projects with C#, VB.NET source code. They
 <p>13.RadarArea</p>
 <p>14.Surface</p>
 <p>15.Surface 3d</p>
-     <strong><p>Html Sample<strong></p>
-Html Sample is designed to export datatable from database, listview and command to html. 19 html styles are provided to customize the html table which is exported from database. Choose one Html style and click “Run” button, the html table will show automatically in the browser. After viewing, “Close” button will help you close it.
+<strong><p>Html Sample<strong></p>
+<p>Html Sample is designed to export datatable from database, listview and command to html. 19 html styles are provided to customize the html table which is exported from database. Choose one Html style and click “Run” button, the html table will show automatically in the browser. After viewing, “Close” button will help you close it.</p>
+<strong><p>Sample<strong></p>
+<p>Sample is an ensemble of all export formats. 14 file formats are available. Here is a list of all export file formats:</p>
+<p>1.MS XLS</p>
+<p>2.MS Word doc/docx</p>
+<p>3.RTF</p>
+<p>4.HTML</p>
+<p>5.PDF</p>
+<p>6.Clipboard</p>
+<p>7.DBF</p>
+<p>8.MS Access</p>
+<p>9.XML</p>
+<p>10.SQL Script</p>
+<p>11.SYLK</p>
+<p>12.CSV</p>
+<p>13.DIF</p>
+<p>14.Text</p>
+
+<strong><p>Customer Driven Service<strong></p>
+================
+<p>As for our customers, we are devoted to satisfying every customer need. We give customers whole right to review the product, then, constantly to better and develop it according to customer feel, which will be shown below:</p>
+<p>1.Features will be optimized according to your requirements.</p>
+<p>2.Frequently release new version to add new features or fix bugs.</p>
+<p>3.Responsible free technical support for anyone within at most one business day.</p>
+<p>4.Online support of professional technical advisers in communities and forums.</p>
+
+
+
 
