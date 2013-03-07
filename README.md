@@ -20,7 +20,7 @@ Spire.DataExport for .NET is a .NET component which is designed to perform data 
 ================
 <p>Spire.DataExport for .NET is a professional data export product for commercial use. Before trial, you need to <a href="http://www.e-iceblue.com/Download/download-dataexport-for-net-now.html">download Spire.DataExport for. NET</a>and there will be in evaluation mode when it works.  To remove this evaluation warning, you will need to purchase it to get a license.
 <strong><p>How to Install?<strong></p>
-<p>Spire.DataExport dll is independent with sample projects. They are all packed in new versions, but for hotfix version, there is only Spire.DataExport dll. For a new user of Spire.DataExport for .NET, it is better to keep the sample projects in it. But if you have used it, you can only extract the Spire.DataExport dll to any location as you like without any running error.
+<p>Spire.DataExport dll is independent with sample projects. They are all packed in new versions, but for hotfix version, there is only Spire.DataExport dll. For a new user of Spire.DataExport for .NET, it is better to keep the sample projects in it. But if you have used it, you can only extract the Spire.DataExport dll to any location as you like without any running error.</p>
 <strong><p>How to Run Project Demos?<strong></p>
 <p>There is the default project in the sample project pack. Often the first sample project is the default project. So when you run the demo by pressing “F5” or clicking the “Debug”, it actually debugs the first project. The best way is to set the project you want to debug as the StartUp Project. So be sure you are running the right project.</p>
 
