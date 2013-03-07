@@ -1,5 +1,6 @@
 Spire.DataExport
 ================
+---------------------------------------------------------------------------------------------------------------------
 This is a package of C#, VB.NET Example Projects for <a href="http://www.e-iceblue.com/Introduce/data-export-for-net-intro.html">Spire.DataExport for .NET</a></p>
 
 Spire.DataExport for .NET is a .NET component which is designed to perform data exporting processing tasks.Spire.DataExport  supports to export data to MS Word, MS Excel, MS Access, PDF, Text, HTML, XML, RTF, DBF, SQL Script, SYLK, CSV, DIF , MS Clipboard format. Besides, this data export component enables you to easily export data from ListView, Command and DataTable components.
@@ -75,7 +76,6 @@ Spire.DataExport for .NET is a .NET component which is designed to perform data 
 <strong><p>How to Choose Subscription?<strong></p>
 ================
 <p>This subscription program is designed to offer the latest development technology and high quality support for both individual customers and team developers with a lowest price.See more in <a href="http://www.e-iceblue.com/Knowledgebase/Licensing/Purchase-Subscription.html">Purchase Subscription</a></p>
-
 <strong><p>How to Apply a License?<strong></p>
 <p>E-iceblue provides a trial version of Spire.DataExport. As long as you are registered, you can download it for free. But it will be in evaluation mode before you purchasing a license.</p>
 <p>Spire.DataExport for .NET license is an xml file which contains licensing available data, product name, product version, the number of licensed developer and licensed site etc. See <a href="http://www.e-iceblue.com/Knowledgebase/Licensing/Licensing.html">License Details.</a></p>
