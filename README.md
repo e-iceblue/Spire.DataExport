@@ -12,7 +12,7 @@ Spire.DataExport for .NET is a .NET component which is designed to perform data 
 4. ASP.NET and Windows Forms support
 5. Multi-language support
 6. Scalability and Usability
-7. Easy manipulation and high fidelity<
+7. Easy manipulation and high fidelity
 
 <strong><p>First Glance of Spire.DataExport for .NET<strong></p>
 <img src="http://sphotos-a.xx.fbcdn.net/hphotos-ash4/3711_430325753682064_1041484155_n.jpg">
